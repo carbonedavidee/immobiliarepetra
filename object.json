@@ -1,6 +1,32 @@
 [
     {
         "title":"Villa su mare...",
-        "price":9000000
+        "price":9000000,
+        "description":"ofekwpfokwef",
+        "type": "Villa",
+        "purchase-mode":"v",
+        "location": {
+            "address":"",
+            "city":"",
+            "zone":""
+        },
+        "info" : {
+            "rooms":2,
+            "bathrooms":1,
+            "extension":500,
+            "other":[{"title":"cratterista1","value":"100"}]
+        },
+        "photo-repository":{
+            "link":"link",
+            "filenames":["file1","file2"],
+            "fixed":"file1"
+        },
+        "video-link":"link..",
+        "pdf-link":"link...",
+        "maps-link":"link..",
+        "streetview-link":"link...",
+        "is-in-home":true
+
+        
     }
 ]
